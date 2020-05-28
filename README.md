@@ -29,7 +29,9 @@
   - A congestion-control socket library with a single interface that supports most protocols
 - [HA-store](https://github.com/fed135/ha-store)
   - A data-loading library with request coalescing, batching and internal TLRU cache
-  
+- [AWS region latencies](https://gist.github.com/fed135/fdac7af0a49099ad45cc2547a45bf762)
+  - Function that estimates minimum latency and ping values between AWS regions based on physics
+
 ### Gaming
 
 - [JS1k 2019](https://js1k.com/2019-x/details/4053)
