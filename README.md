@@ -32,12 +32,9 @@
   
 ### Gaming
 
-**JS1k 2019**
-Code golfing app built in under 1 kb of Javascript, source [here](https://js1k.com/2019-x/details/4053)
-  
-**2k Jam Plus**
-Code golfing app built in under 2 kb of Javascript, source [here](https://fed135.itch.io/js2k-ghost-blaster)
-
-**JS13k Games**
-Code golfing app built in under 13 kb of Javascript, source [here](https://js13kgames.com/entries/puzzle-from-hell)
-  
+- [JS1k 2019](https://js1k.com/2019-x/details/4053)
+  - Code golfing challenge where I built a game in under 1 kb of Javascript
+- [JS13kGames 2019](https://js13kgames.com/entries/puzzle-from-hell)
+  - Puzzle game made in < 6 kb of javascript
+- [2k Jam Plus 2020](https://fed135.itch.io/js2k-ghost-blaster)
+  - Horizontal scroller pixel art game built in under 2 kb of Javascript
