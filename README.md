@@ -40,3 +40,6 @@
   - Puzzle game made in < 6 kb of javascript
 - [2k Jam Plus 2020](https://fed135.itch.io/js2k-ghost-blaster)
   - Horizontal scroller pixel art game built in under 2 kb of Javascript
+
+
+[![fed135's github stats](https://github-readme-stats.vercel.app/api?username=fed135)](https://github.com/fed135)
