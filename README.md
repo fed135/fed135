@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="http://fredericcharette.ca">
-    <img width="300" src="https://ca.slack-edge.com/T27N8J22C-UM2SY56DV-bd9cdf27f5f1-512">
+    <img width="300" src="https://media.licdn.com/dms/image/D4E03AQEiDitEeJVQdA/profile-displayphoto-shrink_800_800/0/1664365822274?e=1683158400&v=beta&t=BrCZMG2Ecqz9T7Kc-pTmuEIQjKPHbgrcAdBgPFSLvTM">
     <br/>
   </a>
   Frederic Charette
