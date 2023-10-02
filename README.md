@@ -6,10 +6,10 @@
     <br/>
   </a>
 </h1>
-<h3 align="center">
+<div align="center">
   Montreal based advisor and Fractional CTO
   <br/><br/>
-</h3>
+</div>
 
 ## Expertise
 
