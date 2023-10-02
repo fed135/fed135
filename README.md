@@ -1,19 +1,20 @@
 <h1 align="center">
-  <a href="http://fredericcharette.ca">
-    <img width="300" src="https://media.licdn.com/dms/image/D4E03AQEiDitEeJVQdA/profile-displayphoto-shrink_800_800/0/1664365822274?e=1683158400&v=beta&t=BrCZMG2Ecqz9T7Kc-pTmuEIQjKPHbgrcAdBgPFSLvTM">
+  <a href="http://fredericcharette.com/about">
+    <img width="200" src="https://fredericcharette.com/favicon.png">
+    <br/>
+        Frederic Charette
     <br/>
   </a>
-  Frederic Charette
 </h1>
 <h3 align="center">
-  Montreal based consultant and CTO for hire
+  Montreal based advisor and Fractional CTO
   <br/><br/>
 </h3>
 
 ## Expertise
 
 - **Cloud solutions** :cloud: 
-  - Migration of existing infrastructure to the cloud or creation of new solutions
+  - Cost optimization, architecture and infrastructure as code
 - **Node.js** :wrench:
   - Coaching best practices for the language, security auditing, optimization and troubleshooting
 - **Site reliability** :alarm_clock:
