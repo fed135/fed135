@@ -33,7 +33,7 @@
 - [AWS region latencies](https://gist.github.com/fed135/fdac7af0a49099ad45cc2547a45bf762)
   - Function that estimates minimum latency and ping values between AWS regions based on physics
 
-### Gaming
+### Gamedev
 
 - [JS1k 2019](https://js1k.com/2019-x/details/4053)
   - Code golfing challenge where I built a game in under 1 kb of Javascript
