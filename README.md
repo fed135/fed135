@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="http://fredericcharette.com/about">
-    <img width="200" src="https://fredericcharette.com/favicon.png">
+    <img width="200px" src="https://github.com/user-attachments/assets/56f35748-f45c-4960-84f0-7a99a3523b69">
     <br/>
         Frederic Charette
     <br/>
